@@ -8,7 +8,7 @@ I'm a computer engineer from Curitiba 🇧🇷.
 - 🌱 I’m currently learning Dart/Flutter
 - 👯 I’m looking to collaborate on Dart/Flutter
 - 📫 How to reach me: leonardopoliveira@hotmail.com
-- ⚡ Things i like: 💻 🎬 🕹 ⚽ 🥊 🏊‍♂️
+- ⚡ Things i like: 💻 🎬 🕹 ⚽  <img src="https://github.com/leonardopresoto/leonardopresoto/blob/main/corinthians.png" width="25">🥊 🏊‍♂️ 
 
 ### My Projects
 
