@@ -1,16 +1,21 @@
 ### Hi there 👋
 
 <!--
-**leonardopresoto/leonardopresoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+I'm a computer engineer from Curitiba 🇧🇷.
+
+- 🌱 I’m currently learning Dart/Flutter
+- 👯 I’m looking to collaborate on Dart/Flutter
+- 📫 How to reach me: leonardopoliveira@hotmail.com
+- ⚡ Things i like: 💻 🎬 🕹 ⚽ 🥊 🏊‍♂️
+
+### My Projects
+
+[![StarWars Clean Architecture](https://github-readme-stats.vercel.app/api/pin/?username=leonardopresoto&repo=starwars_clean_architecture&theme=midnight-purple)](https://github.com/leonardopresoto/starwars_clean_architecture)
+
+### Github Stats
+
+[![Leo's Github Stats](https://github-readme-stats.vercel.app/api?username=leonardopresoto&count_private=true&theme=midnight-purple&show_icons=true)](https://github.com/leonardopresoto)
+
+
